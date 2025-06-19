@@ -1,6 +1,6 @@
 cabal-version: 2.2
 name:          generic-lexicographic-order
-version:       0.1.0.0
+version:       0.1.0.1
 homepage:      https://github.com/friedbrice/generic-lexicographic-order
 bug-reports:
   https://github.com/friedbrice/generic-lexicographic-order/issues
